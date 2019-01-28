@@ -11,3 +11,5 @@ A simple react counter which is made using create-react-app and react-bootstrap
 ## Screens
 
 ![Alt text](./public/assets/screen1.png?raw=true "Screen 1")
+![Alt text](./public/assets/screen2.png?raw=true "Screen 2")
+![Alt text](./public/assets/screen3.png?raw=true "Screen 3")
